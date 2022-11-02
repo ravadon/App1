@@ -5,7 +5,7 @@
 		<Url>https://raw.githubusercontent.com/ravadon/App1/main/PacketLoss_2.0.0.0.rar</Url>
 		<ZipFileName>TestApp_2.0.0.0</ZipFileName>
 		<ExeFileName>TestApp</ExeFileName>
-		<Md5>3a8aeda7b4b7352fa73190aeeef9ecae</md5>
+		<Md5>3a8aeda7b4b7352fa73190aeeef9ecae</Md5>
 		<Description>Initial update</Description>
 		<LaunchArgs></LaunchArgs>
 	</Update>
