@@ -2,7 +2,7 @@
 <root>
 	<Update appId="TestApp">
 		<Version>2.0.0.0</Version>
-		<Url>https://raw.githubusercontent.com/ravadon/App1/main/PacketLoss_2.0.0.0.zip</Url>
+		<Url>https://raw.githubusercontent.com/ravadon/App1/main/TestApp_2.0.0.0.zip</Url>
 		<ZipFileName>TestApp_2.0.0.0.zip</ZipFileName>
 		<ExeFileName>TestApp.exe</ExeFileName>
 		<Md5>3a8aeda7b4b7352fa73190aeeef9ecae</Md5>
